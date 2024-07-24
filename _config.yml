@@ -22,8 +22,9 @@ author:
   avatar           : "profile.png"
   name             : "GameAble"
   pronouns         : "Unknow" 
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Welcome to my blog!
+                      This is a small world full of curiosity and exploration. "
+  location         : "Maybe the Moon?"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
