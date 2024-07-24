@@ -1,24 +1,22 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+# 该配置文件用于影响整个网站的设置，其值为
+# 您只需设置一次，之后就很少需要编辑了。
+# 由于技术原因，当你使用# `jekyll serve -l -H localhost`.
+# 如果更改此文件，请重启服务器进程。
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "zh-CN"
+title                    : "GameAble"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "GameAble"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gameable.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+repository               : "gameable/gameable.github.io"
+# 网站作者 - 以下控制内容将作为作者内容的一部分出现在侧边栏上。
+# 如果某个字段为空，则不会显示图标和链接，否则就会显示。
+# 可通过编辑 /_includes/author-profile.html 进行其他自定义操作
 author:
   # Biographic information
   avatar           : "profile.png"
