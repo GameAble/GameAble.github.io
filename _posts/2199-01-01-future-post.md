@@ -7,7 +7,5 @@ tags:
   - category1
   - category2
 ---
-# 唠一唠
-今天是学习单片机的第55天，这一周有些厌学，前面4天几乎没有学。我觉得跟着视频课程学习，效果不太好，在学完后几日便会忘记，因此，今天，我自己去翻了翻详细资料，想要独立完成对于温度传感器DS18B20的应用。
-想法很美好，可惜学艺不精，成功了一半：看懂了相关资料，但是写不出来代码。最终还是通过视频学习完善代码思路。
-# 
+
+This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
