@@ -1,11 +1,10 @@
 ---
-title: "Day 55"
-collection: talks
-type: "单片机"
-permalink: /talks/Day_55
-venue: ""
+title: '单片机学习Day55'
 date: 2024-11-01
-location: "Ahu, Anhui"
+permalink: /posts/2024/11/blog-post-1/
+tags:
+  - 单片机
+  - 学习记录
 ---
 # 唠一唠
     今天是学习单片机的第55天，这一周有些厌学，前面4天几乎没有学。我觉得跟着视频课程学习，效果不太好，在学完后几日便会忘记，因此，今天，我自己去翻了翻详细资料，想要独立完成对于温度传感器DS18B20的应用。

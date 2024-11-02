@@ -3,8 +3,8 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "单片机学习记录"
-    url: /talks/    
+  # - title: "talks"
+  #   url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -12,8 +12,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  # - title: "Blog"
-  #   url: /year-archive/
+  - title: "Blog"
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
