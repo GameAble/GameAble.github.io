@@ -6,7 +6,7 @@
       {
         "id": "1a61b55553625fd8",
         "type": "tabs",
-        "dimension": 58.81057268722467,
+        "dimension": 58.81057268722466,
         "children": [
           {
             "id": "2843ac831dcdaea5",
@@ -17,7 +17,9 @@
                 "file": "_posts/2024-11-01-单片机-Day55.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-01-单片机-Day55"
             }
           }
         ]
@@ -25,7 +27,7 @@
       {
         "id": "b6c733ed8b4926d3",
         "type": "tabs",
-        "dimension": 41.18942731277533,
+        "dimension": 41.18942731277534,
         "children": [
           {
             "id": "f71ffddaefdf63b8",
@@ -36,7 +38,9 @@
                 "file": "_posts/2024-11-01-单片机-Day55.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-01-单片机-Day55"
             }
           }
         ]
@@ -59,7 +63,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -74,7 +80,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -82,7 +90,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -113,7 +123,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "2024-11-01-单片机-Day55 的反向链接列表"
             }
           },
           {
@@ -125,7 +137,9 @@
                 "file": "_posts/2024-11-01-单片机-Day55.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "2024-11-01-单片机-Day55 的出链列表"
             }
           },
           {
@@ -136,7 +150,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -146,7 +162,9 @@
               "type": "outline",
               "state": {
                 "file": "_posts/2024-11-01-单片机-Day55.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "2024-11-01-单片机-Day55 的大纲"
             }
           }
         ]
