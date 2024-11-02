@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "dc095d5b01a2e874",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a61b55553625fd8",
+        "type": "tabs",
+        "dimension": 58.81057268722467,
+        "children": [
+          {
+            "id": "2843ac831dcdaea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-11-01-单片机-Day55.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b6c733ed8b4926d3",
+        "type": "tabs",
+        "dimension": 41.18942731277533,
+        "children": [
+          {
+            "id": "f71ffddaefdf63b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-11-01-单片机-Day55.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "feb70d9fc2d95b28",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7219f785c13237b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7457886fdc60d5c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3184790c5e9439a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43f62e9d1a22792b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e97f47cff9ea281c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf68be2c6146aa01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac7a94073472a611",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-11-01-单片机-Day55.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c21adfafd579596",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-11-01-单片机-Day55.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9906338b3f3f05d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "08232f0e2d5566ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-11-01-单片机-Day55.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 780.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2843ac831dcdaea5",
+  "lastOpenFiles": [
+    "images/单片机Day55_1.png",
+    "images/image.png",
+    "Pasted image 20241102110850.png",
+    "_posts/2024-11-01-单片机-Day55.md"
+  ]
+}
